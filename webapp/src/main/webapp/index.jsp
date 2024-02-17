@@ -9,7 +9,14 @@
     <br>
      <br>
      <br>
-    <label for="mobile"><b>Enter mobile</b></label>
+   
+     <label for="Name_nationality<b>Enter Name_nationality</b></label>
+    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <br>
+     <br>
+     <br>
+
+     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
     <br>
