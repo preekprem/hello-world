@@ -9,7 +9,13 @@
     <br>
      <br>
      <br>
-   
+  
+     <label for="dept name"><b>Dept_namede</b></label>
+    <input type="text" placeholder="Enter dept name" name="Name" id="Name" required>
+    <br>
+     <br>
+     <br>
+
      <label for="Name_nationality"<b>Enter Name_nationality</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
